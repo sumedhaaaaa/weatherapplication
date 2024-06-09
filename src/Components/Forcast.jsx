@@ -54,7 +54,7 @@ const Forcast = () => {
                 />
             </div>
             <div className="today-weather">
-                <h3>SkyInfo</h3>
+                <h3>WeatherApplication</h3>
                 <div className="search-box">
                     <input
                         type="text"
